@@ -1,6 +1,6 @@
 {
   "api": {
-    "testapp": {
+    "notesapp": {
       "dependsOn": [],
       "output": {
         "authConfig": {
@@ -18,7 +18,7 @@
     }
   },
   "auth": {
-    "testapp66d121c5": {
+    "testapp32d71ec4": {
       "customAuth": false,
       "dependsOn": [],
       "frontendAuthConfig": {
@@ -45,7 +45,9 @@
   },
   "storage": {
     "imagestorage": {
-      "dependsOn": []
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "S3"
     }
   }
 }
