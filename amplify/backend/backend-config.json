@@ -42,5 +42,10 @@
       "providerPlugin": "awscloudformation",
       "service": "Cognito"
     }
+  },
+  "storage": {
+    "imagestorage": {
+      "dependsOn": []
+    }
   }
 }
