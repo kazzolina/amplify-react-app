@@ -1,4 +1,4 @@
-**NOTE: All directions from this project came from [AWS Amplify](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)**
+**NOTE: To create this project, I followed all directions listed from [AWS Amplify](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)**
 
 # Getting Started with Create React App
 
