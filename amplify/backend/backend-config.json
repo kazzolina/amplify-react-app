@@ -18,7 +18,7 @@
     }
   },
   "auth": {
-    "testapp32d71ec4": {
+    "amplifyreactappe19a1c8f": {
       "customAuth": false,
       "dependsOn": [],
       "frontendAuthConfig": {

@@ -89,16 +89,16 @@ const App = ({ signOut }) => {
             variation="quiet"
             required
           />
-          <Button type="submit" variation="primary">
-            Create Note
-          </Button>
-        </Flex>
           <View
             name="image"
             as="input"
             type="file"
             style={{ alignSelf: "end" }}
           />
+          <Button type="submit" variation="primary">
+            Create Note
+          </Button>
+        </Flex>
       </View>
       <Heading level={2}>Current Notes</Heading>
       <View margin="3rem 0">

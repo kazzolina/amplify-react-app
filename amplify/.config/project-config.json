@@ -2,7 +2,7 @@
   "providers": [
     "awscloudformation"
   ],
-  "projectName": "testapp",
+  "projectName": "amplifyreactapp",
   "version": "3.1",
   "frontend": "javascript",
   "javascript": {
