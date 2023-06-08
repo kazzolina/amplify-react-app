@@ -1,3 +1,5 @@
+**NOTE: All directions from this project came from [AWS Amplify](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
